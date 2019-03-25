@@ -14,3 +14,6 @@ git add .
 git remote add origin https://github.com/username/projectname.git
 
 https://www.javacodegeeks.com/2014/04/how-to-add-an-intellij-project-to-github.html
+
+Link for Machine Learning guide:
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
